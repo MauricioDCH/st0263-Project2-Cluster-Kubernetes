@@ -49,7 +49,7 @@ Este proyecto consiste en la implementación un CMS a traves de un cluster de ku
 ## 2. Arquitectura del sistema
 ---
 
- ![proyecto-2](images/Arquitectura2.png)
+ ![proyecto-2](images/Arquitectura2-update.png)
 
 ## 3. Descripción del ambiente de desarrollo
 ---
