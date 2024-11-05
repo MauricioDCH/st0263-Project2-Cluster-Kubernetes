@@ -993,6 +993,12 @@ replicaset.apps/wordpress-mysql-b8f84b599   1         1         1       46h   my
 
 ![configuración-cluster](images/configuracion-cluster.png)
 
+
+## Video de sustentación.
+
+[Link del video de la sustentación](https://eafit-my.sharepoint.com/:v:/g/personal/mdcorreah_eafit_edu_co/EYV0sgH0MiVOnWxKbmqt5lsB4qPuGae5vuPK7XvUMRia9w?referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view)
+
+
  ## Referencias
 
 - [Instalación snap en debian.](https://snapcraft.io/docs/installing-snap-on-debian)
